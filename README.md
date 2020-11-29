@@ -1,4 +1,2 @@
 # google-homepage
-The goal of this assignment is to recreate the google homepage.
-
-Just testing if this changes anything.
+https://www.theodinproject.com/lessons/html-css
